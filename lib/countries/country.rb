@@ -5,6 +5,8 @@ class ISO3166::Country
   Names = Data.map {|k,v| [v['name'],k]}.sort_by { |d| d[0] }
   NameIndex = Hash[*Names.flatten]
 
+  EXCEPTIONS = ["AN", "AQ", "AX", "BQ", "BV", "CD", "CG", "CN", "CW", "DM", "DO", "FR", "GG", "HK", "IN", "IO", "IT", "JE", "MO", "MP", "MQ", "NE", "NG", "NL", "NO", "PM", "RE", "SE", "SJ", "SX", "TF", "UM", "US", "VA", "VG", "VI", "YT"]
+
   AttrReaders = [
     :number,
     :alpha2,
@@ -103,7 +105,15 @@ class ISO3166::Country
     end
 
     def nationalities(locale='en')
-      translate = ->(country) { ["#{self[country[1]].nationality_translations[locale]} (#{self[country[1]].translations[locale]})", country[1]] }
+      translate = ->(country) do
+        next if self[country[1]].nationality_translations[locale].blank?
+
+        if EXCEPTIONS.include?(country[1])
+          ["#{self[country[1]].nationality_translations[locale]} (#{self[country[1]].translations[locale]})", country[1]]
+        else
+          [self[country[1]].nationality_translations[locale], country[1]]
+        end
+      end
       list = self.all.map(&translate).compact.uniq.sort
     end
 
