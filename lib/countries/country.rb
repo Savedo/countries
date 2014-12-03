@@ -102,6 +102,11 @@ class ISO3166::Country
       list = self.all.map(&translate).compact.sort
     end
 
+    def nationalities(locale='en')
+      translate = ->(country) { self[country[1]].nationality_translations[locale] }
+      list = self.all.map(&translate).compact.uniq.sort
+    end
+
     def search(query)
       country = self.new(query.to_s.upcase)
       (country && country.valid?) ? country : nil
