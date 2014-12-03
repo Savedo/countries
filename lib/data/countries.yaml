@@ -41,7 +41,7 @@ AD:
   nationality: Andorran
   nationality_translations:
     en: Andorran
-    de: Andorran
+    de: Andorranisch
   postal_code: true
 AE:
   continent: Asia
@@ -94,7 +94,7 @@ AE:
   nationality: Emirian
   nationality_translations:
     en: Emirian
-    de: Emirian
+    de: Emiratisch
   postal_code: false
 AF:
   continent: Asia
@@ -138,7 +138,7 @@ AF:
   nationality: Afghan
   nationality_translations:
     en: Afghan
-    de: Afghan
+    de: Afghanisch
   postal_code: true
 AG:
   continent: North America
@@ -181,7 +181,7 @@ AG:
   nationality: Antiguan, Barbudan
   nationality_translations:
     en: Antiguan, Barbudan
-    de: Antiguan, Barbudan
+    de: Antiguanisch, Barbudanisch
   postal_code: false
 AI:
   continent: North America
@@ -220,7 +220,7 @@ AI:
   nationality: Anguillian
   nationality_translations:
     en: Anguillian
-    de: Anguillian
+    de: Anguillianisch
   postal_code: true
 AL:
   continent: Europe
@@ -265,7 +265,7 @@ AL:
   nationality: Albanian
   nationality_translations:
     en: Albanian
-    de: Albanian
+    de: Albanisch
   postal_code: true
 AM:
   continent: Asia
@@ -309,7 +309,7 @@ AM:
   nationality: Armenian
   nationality_translations:
     en: Armenian
-    de: Armenian
+    de: Armenisch
   postal_code: true
 AN:
   continent: North America
@@ -353,7 +353,7 @@ AN:
   nationality: Dutch
   nationality_translations:
     en: Dutch
-    de: Dutch
+    de: Niederländisch
   dissolved_on: '2010-10-10'
   postal_code: false
 AO:
@@ -394,7 +394,7 @@ AO:
   nationality: Angolan
   nationality_translations:
     en: Angolan
-    de: Angolan
+    de: Angolanisch
   postal_code: false
 AQ:
   continent: Antarctica
@@ -487,7 +487,7 @@ AR:
   nationality: Argentinean
   nationality_translations:
     en: Argentinean
-    de: Argentinean
+    de: Argentinisch
   postal_code: true
 AS:
   continent: Australia
@@ -531,7 +531,7 @@ AS:
   nationality: American Samoan
   nationality_translations:
     en: American Samoan
-    de: American Samoan
+    de: Amerikanisch-Samoanisch
   postal_code: true
 AT:
   continent: Europe
@@ -589,7 +589,7 @@ AT:
   nationality: Austrian
   nationality_translations:
     en: Austrian
-    de: Austrian
+    de: Österreichisch
   eu_member: true
   postal_code: true
 AU:
@@ -639,7 +639,7 @@ AU:
   nationality: Australian
   nationality_translations:
     en: Australian
-    de: Australian
+    de: Australisch
   postal_code: true
 AW:
   continent: North America
@@ -678,7 +678,7 @@ AW:
   nationality: Aruban
   nationality_translations:
     en: Aruban
-    de: Aruban
+    de: Arubanisch
   postal_code: false
 AX:
   continent: Europe
@@ -717,7 +717,7 @@ AX:
   nationality: Swedish
   nationality_translations:
     en: Swedish
-    de: Swedish
+    de: Schwedisch
   postal_code: true
 AZ:
   continent: Asia
@@ -762,7 +762,7 @@ AZ:
   nationality: Azerbaijani
   nationality_translations:
     en: Azerbaijani
-    de: Azerbaijani
+    de: Azerbaidjanisch
   postal_code: true
 BA:
   continent: Europe
@@ -814,7 +814,7 @@ BA:
   nationality: Bosnian, Herzegovinian
   nationality_translations:
     en: Bosnian, Herzegovinian
-    de: Bosnian, Herzegovinian
+    de: Bosnisch-Herzegowinisch
   postal_code: true
 BB:
   continent: North America
@@ -854,7 +854,7 @@ BB:
   nationality: Barbadian
   nationality_translations:
     en: Barbadian
-    de: Barbadian
+    de: Barbadisch
   postal_code: true
 BD:
   continent: Asia
@@ -894,7 +894,7 @@ BD:
   nationality: Bangladeshi
   nationality_translations:
     en: Bangladeshi
-    de: Bangladeshi
+    de: Bangladeschisch
   postal_code: true
 BE:
   continent: Europe
@@ -947,7 +947,7 @@ BE:
   nationality: Belgian
   nationality_translations:
     en: Belgian
-    de: Belgian
+    de: Belgisch
   eu_member: true
   postal_code: true
 BF:
@@ -988,7 +988,7 @@ BF:
   nationality: Burkinabe
   nationality_translations:
     en: Burkinabe
-    de: Burkinabe
+    de: Burkinisch
   postal_code: false
 BG:
   continent: Europe
@@ -1039,7 +1039,7 @@ BG:
   nationality: Bulgarian
   nationality_translations:
     en: Bulgarian
-    de: Bulgarian
+    de: Bulgarisch
   eu_member: true
   postal_code: true
 BH:
@@ -1088,7 +1088,7 @@ BH:
   nationality: Bahraini
   nationality_translations:
     en: Bahraini
-    de: Bahraini
+    de: Bahrainisch
   postal_code: true
 BI:
   continent: Africa
@@ -1128,7 +1128,7 @@ BI:
   nationality: Burundian
   nationality_translations:
     en: Burundian
-    de: Burundian
+    de: Burundisch
   postal_code: false
 BJ:
   continent: Africa
@@ -1168,7 +1168,7 @@ BJ:
   nationality: Beninese
   nationality_translations:
     en: Beninese
-    de: Beninese
+    de: Beninisch
   postal_code: false
 BL:
   continent: North America
@@ -1206,7 +1206,7 @@ BL:
   nationality: Saint Barthélemy Islander
   nationality_translations:
     en: Saint Barthélemy Islander
-    de: Saint Barthélemy Islander
+    de: Saint Barthélemy Isländer
   postal_code: true
 BM:
   continent: North America
@@ -1247,7 +1247,7 @@ BM:
   nationality: Bermudian
   nationality_translations:
     en: Bermudian
-    de: Bermudian
+    de: Bermudisch
   postal_code: true
 BN:
   continent: Asia
@@ -1286,7 +1286,7 @@ BN:
   nationality: Bruneian
   nationality_translations:
     en: Bruneian
-    de: Bruneian
+    de: Bruneiisch
   postal_code: true
 BO:
   continent: South America
@@ -1329,7 +1329,7 @@ BO:
   nationality: Bolivian
   nationality_translations:
     en: Bolivian
-    de: Bolivian
+    de: Bolivianisch
   postal_code: true
 BQ:
   continent: North America
@@ -1367,7 +1367,7 @@ BQ:
   nationality: Dutch
   nationality_translations:
     en: Dutch
-    de: Dutch
+    de: Niederländisch
   postal_code: true
 BR:
   continent: South America
@@ -1418,7 +1418,7 @@ BR:
   nationality: Brazilian
   nationality_translations:
     en: Brazilian
-    de: Brazilian
+    de: Brasilianisch
   postal_code: true
 BS:
   continent: North America
@@ -1458,7 +1458,7 @@ BS:
   nationality: Bahamian
   nationality_translations:
     en: Bahamian
-    de: Bahamian
+    de: Bahamisch
   postal_code: false
 BT:
   continent: Asia
@@ -1500,7 +1500,7 @@ BT:
   nationality: Bhutanese
   nationality_translations:
     en: Bhutanese
-    de: Bhutanese
+    de: Bhutanisch
   postal_code: true
 BV:
   continent: Antarctica
@@ -1578,7 +1578,7 @@ BW:
   nationality: Motswana
   nationality_translations:
     en: Motswana
-    de: Motswana
+    de: Botwanisch
   postal_code: false
 BY:
   continent: Europe
@@ -1622,7 +1622,7 @@ BY:
   nationality: Belarusian
   nationality_translations:
     en: Belarusian
-    de: Belarusian
+    de: Weißrussisch
   postal_code: true
 BZ:
   continent: North America
@@ -1663,7 +1663,7 @@ BZ:
   nationality: Belizean
   nationality_translations:
     en: Belizean
-    de: Belizean
+    de: Belizenisch
   postal_code: false
 CA:
   continent: North America
@@ -1713,7 +1713,7 @@ CA:
   nationality: Canadian
   nationality_translations:
     en: Canadian
-    de: Canadian
+    de: Kanadisch
   postal_code: true
 CC:
   continent: Asia
@@ -1754,7 +1754,7 @@ CC:
   nationality: Cocos Islander
   nationality_translations:
     en: Cocos Islander
-    de: Cocos Islander
+    de: Kokos Insulaner
   postal_code: true
 CD:
   continent: Africa
@@ -1800,7 +1800,7 @@ CD:
   nationality: Congolese
   nationality_translations:
     en: Congolese
-    de: Congolese
+    de: Kongolese
   postal_code: false
 CF:
   continent: Africa
@@ -1844,7 +1844,7 @@ CF:
   nationality: Central African
   nationality_translations:
     en: Central African
-    de: Central African
+    de: Zentralafrikaner
   postal_code: false
 CG:
   continent: Africa
@@ -1886,7 +1886,7 @@ CG:
   nationality: Congolese
   nationality_translations:
     en: Congolese
-    de: Congolese
+    de: Kongolese
   postal_code: false
 CH:
   continent: Europe
@@ -1939,7 +1939,7 @@ CH:
   nationality: Swiss
   nationality_translations:
     en: Swiss
-    de: Swiss
+    de: Schweizer
   postal_code: true
 CI:
   continent: Africa
@@ -1980,7 +1980,7 @@ CI:
   nationality: Ivorian
   nationality_translations:
     en: Ivorian
-    de: Ivorian
+    de: Ivorer
   postal_code: false
 CK:
   continent: Australia
@@ -2023,7 +2023,7 @@ CK:
   nationality: Cook Islander
   nationality_translations:
     en: Cook Islander
-    de: Cook Islander
+    de: Cook-Insulaner
   postal_code: false
 CL:
   continent: South America
@@ -2065,7 +2065,7 @@ CL:
   nationality: Chilean
   nationality_translations:
     en: Chilean
-    de: Chilean
+    de: Chilene
   postal_code: true
 CM:
   continent: Africa
@@ -2110,7 +2110,7 @@ CM:
   nationality: Cameroonian
   nationality_translations:
     en: Cameroonian
-    de: Cameroonian
+    de: Kameruner
   postal_code: false
 CN:
   continent: Asia
@@ -2205,7 +2205,7 @@ CO:
   nationality: Colombian
   nationality_translations:
     en: Colombian
-    de: Colombian
+    de: Kolumbianer
   postal_code: true
 CR:
   continent: North America
@@ -2244,7 +2244,7 @@ CR:
   nationality: Costa Rican
   nationality_translations:
     en: Costa Rican
-    de: Costa Rican
+    de: Costa Ricaner
   postal_code: true
 CU:
   continent: North America
@@ -2284,7 +2284,7 @@ CU:
   nationality: Cuban
   nationality_translations:
     en: Cuban
-    de: Cuban
+    de: Kubaner
   postal_code: true
 CV:
   continent: Africa
