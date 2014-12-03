@@ -2284,7 +2284,7 @@ CU:
   nationality: Cuban
   nationality_translations:
     en: Cuban
-    de: Kubaner
+    de: Kubanisch
   postal_code: true
 CV:
   continent: Africa
@@ -2327,7 +2327,7 @@ CV:
   nationality: Cape Verdian
   nationality_translations:
     en: Cape Verdian
-    de: Cape Verdian
+    de: Kap Verdisch
   postal_code: true
 CW:
   continent: North America
@@ -2363,7 +2363,7 @@ CW:
   nationality: Dutch
   nationality_translations:
     en: Dutch
-    de: Dutch
+    de: Niederländisch
   postal_code: true
 CX:
   continent: Asia
@@ -2404,7 +2404,7 @@ CX:
   nationality: Christmas Island
   nationality_translations:
     en: Christmas Island
-    de: Christmas Island
+    de: Weihnachtsinsel
   postal_code: true
 CY:
   continent: Asia
@@ -2448,7 +2448,7 @@ CY:
   nationality: Cypriot
   nationality_translations:
     en: Cypriot
-    de: Cypriot
+    de: Zypriotisch
   eu_member: true
   postal_code: true
 CZ:
@@ -2500,7 +2500,7 @@ CZ:
   nationality: Czech
   nationality_translations:
     en: Czech
-    de: Czech
+    de: Tschechisch
   eu_member: true
   postal_code: true
 DE:
@@ -2560,7 +2560,7 @@ DE:
   nationality: German
   nationality_translations:
     en: German
-    de: German
+    de: Deutsch
   eu_member: true
   postal_code: true
 DJ:
@@ -2602,7 +2602,7 @@ DJ:
   nationality: Djibouti
   nationality_translations:
     en: Djibouti
-    de: Djibouti
+    de: Djiboutisch
   postal_code: false
 DK:
   continent: Europe
@@ -2655,7 +2655,7 @@ DK:
   nationality: Danish
   nationality_translations:
     en: Danish
-    de: Danish
+    de: Dänisch
   eu_member: true
   postal_code: true
 DM:
@@ -2696,7 +2696,7 @@ DM:
   nationality: Dominican
   nationality_translations:
     en: Dominican
-    de: Dominican
+    de: Dominikanisch
   postal_code: false
 DO:
   continent: North America
@@ -2739,7 +2739,7 @@ DO:
   nationality: Dominican
   nationality_translations:
     en: Dominican
-    de: Dominican
+    de: Dominikanisch
   postal_code: true
 DZ:
   continent: Africa
@@ -2783,7 +2783,7 @@ DZ:
   nationality: Algerian
   nationality_translations:
     en: Algerian
-    de: Algerian
+    de: Algerisch
   postal_code: true
 EC:
   continent: South America
@@ -2825,7 +2825,7 @@ EC:
   nationality: Ecuadorean
   nationality_translations:
     en: Ecuadorean
-    de: Ecuadorean
+    de: Ecuadorianisch
   postal_code: true
 EE:
   continent: Europe
@@ -2867,7 +2867,7 @@ EE:
   nationality: Estonian
   nationality_translations:
     en: Estonian
-    de: Estonian
+    de: Estnisch
   eu_member: true
   postal_code: true
 EG:
@@ -2919,7 +2919,7 @@ EG:
   nationality: Egyptian
   nationality_translations:
     en: Egyptian
-    de: Egyptian
+    de: Ägyptisch
   postal_code: true
 EH:
   continent: Africa
@@ -2960,7 +2960,7 @@ EH:
   nationality: Sahrawi
   nationality_translations:
     en: Sahrawi
-    de: Sahrawi
+    de: Saharisch
   postal_code: true
 ER:
   continent: Africa
