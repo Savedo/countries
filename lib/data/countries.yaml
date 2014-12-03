@@ -3597,6 +3597,10 @@ GF:
   un_locode: GF
   languages:
   - fr
+  nationality: French Guianese
+  nationality_translations:
+    en: French Guianese
+    de: French Guianese
   postal_code: true
 GG:
   continent: Europe
