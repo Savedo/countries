@@ -103,7 +103,7 @@ class ISO3166::Country
     end
 
     def nationalities(locale='en')
-      translate = ->(country) { self[country[1]].nationality_translations[locale] }
+      translate = ->(country) { ["#{self[country[1]].nationality_translations[locale]} (#{self[country[1]].translations[locale]})", country[1]] }
       list = self.all.map(&translate).compact.uniq.sort
     end
 
