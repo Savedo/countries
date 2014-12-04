@@ -5470,7 +5470,7 @@ KR:
   nationality: South Korean
   nationality_translations:
     en: South Korean
-    de: South Korean
+    de: Südkoreanisch
   postal_code: true
 KW:
   continent: Asia
@@ -5521,7 +5521,7 @@ KW:
   nationality: Kuwaiti
   nationality_translations:
     en: Kuwaiti
-    de: Kuwaiti
+    de: Kuwaitisch
   postal_code: true
 KY:
   continent: North America
@@ -5564,7 +5564,7 @@ KY:
   nationality: Caymanian
   nationality_translations:
     en: Caymanian
-    de: Caymanian
+    de: Kaimanisch
   postal_code: true
 KZ:
   continent: Asia
@@ -5608,7 +5608,7 @@ KZ:
   nationality: Kazakhstani
   nationality_translations:
     en: Kazakhstani
-    de: Kazakhstani
+    de: Kasachisch
   postal_code: true
 LA:
   continent: Asia
@@ -5648,7 +5648,7 @@ LA:
   nationality: Laotian
   nationality_translations:
     en: Laotian
-    de: Laotian
+    de: Laotisch
   postal_code: true
 LB:
   continent: Asia
@@ -5699,7 +5699,7 @@ LB:
   nationality: Lebanese
   nationality_translations:
     en: Lebanese
-    de: Lebanese
+    de: Libanesisch
   postal_code: true
 LC:
   continent: North America
@@ -5740,7 +5740,7 @@ LC:
   nationality: Saint Lucian
   nationality_translations:
     en: Saint Lucian
-    de: Saint Lucian
+    de: Saint Lucianisch
   postal_code: false
 LI:
   continent: Europe
@@ -5779,7 +5779,7 @@ LI:
   nationality: Liechtensteiner
   nationality_translations:
     en: Liechtensteiner
-    de: Liechtensteiner
+    de: Liechtensteinisch
   postal_code: true
 LK:
   continent: Asia
@@ -5820,7 +5820,7 @@ LK:
   nationality: Sri Lankan
   nationality_translations:
     en: Sri Lankan
-    de: Sri Lankan
+    de: Sri-Lankisch
   postal_code: true
 LR:
   continent: Africa
@@ -5861,7 +5861,7 @@ LR:
   nationality: Liberian
   nationality_translations:
     en: Liberian
-    de: Liberian
+    de: Liberianisch
   postal_code: true
 LS:
   continent: Africa
@@ -5902,7 +5902,7 @@ LS:
   nationality: Mosotho
   nationality_translations:
     en: Mosotho
-    de: Mosotho
+    de: Lesothisch
   postal_code: true
 LT:
   continent: Europe
@@ -5945,7 +5945,7 @@ LT:
   nationality: Lithuanian
   nationality_translations:
     en: Lithuanian
-    de: Lithuanian
+    de: Litauisch
   eu_member: true
   postal_code: true
 LU:
@@ -5996,7 +5996,7 @@ LU:
   nationality: Luxembourger
   nationality_translations:
     en: Luxembourger
-    de: Luxembourger
+    de: Luxemburgisch
   eu_member: true
   postal_code: true
 LV:
@@ -6040,7 +6040,7 @@ LV:
   nationality: Latvian
   nationality_translations:
     en: Latvian
-    de: Latvian
+    de: Lettisch
   eu_member: true
   postal_code: true
 LY:
@@ -6086,7 +6086,7 @@ LY:
   nationality: Libyan
   nationality_translations:
     en: Libyan
-    de: Libyan
+    de: Libysch
   postal_code: true
 MA:
   continent: Africa
@@ -6129,7 +6129,7 @@ MA:
   nationality: Moroccan
   nationality_translations:
     en: Moroccan
-    de: Moroccan
+    de: Morokkanisch
   postal_code: true
 MC:
   continent: Europe
@@ -6170,7 +6170,7 @@ MC:
   nationality: Monegasque
   nationality_translations:
     en: Monegasque
-    de: Monegasque
+    de: Monegassisch
   postal_code: true
 MD:
   continent: Europe
@@ -6214,7 +6214,7 @@ MD:
   nationality: Moldovan
   nationality_translations:
     en: Moldovan
-    de: Moldovan
+    de: Moldawisch
   postal_code: true
 ME:
   continent: Europe
@@ -6257,7 +6257,7 @@ ME:
   nationality: Montenegrin
   nationality_translations:
     en: Montenegrin
-    de: Montenegrin
+    de: Montenegrinisch
   postal_code: true
 MF:
   continent: North America
@@ -6297,7 +6297,7 @@ MF:
   nationality: Saint Martin Islander
   nationality_translations:
     en: Saint Martin Islander
-    de: Saint Martin Islander
+    de: Saint-Martinisch 
   postal_code: true
 MG:
   continent: Africa
@@ -6339,7 +6339,7 @@ MG:
   nationality: Malagasy
   nationality_translations:
     en: Malagasy
-    de: Malagasy
+    de: Madagaskarisch
   postal_code: true
 MH:
   continent: Australia
@@ -6383,7 +6383,7 @@ MH:
   nationality: Marshallese
   nationality_translations:
     en: Marshallese
-    de: Marshallese
+    de: Marshallesisch
   postal_code: true
 MK:
   continent: Europe
@@ -6433,7 +6433,7 @@ MK:
   nationality: Macedonian
   nationality_translations:
     en: Macedonian
-    de: Macedonian
+    de: Mazedonisch
   postal_code: true
 ML:
   continent: Africa
@@ -6472,7 +6472,7 @@ ML:
   nationality: Malian
   nationality_translations:
     en: Malian
-    de: Malian
+    de: Malisch
   postal_code: false
 MM:
   continent: Asia
@@ -6512,7 +6512,7 @@ MM:
   nationality: Myanmarian
   nationality_translations:
     en: Myanmarian
-    de: Myanmarian
+    de: Myanmarisch
   postal_code: true
 MN:
   continent: Asia
@@ -6557,7 +6557,7 @@ MN:
   nationality: Mongolian
   nationality_translations:
     en: Mongolian
-    de: Mongolian
+    de: Mongolisch
   postal_code: true
 MO:
   continent: Asia
@@ -6597,7 +6597,7 @@ MO:
   nationality: Chinese
   nationality_translations:
     en: Chinese
-    de: Chinese
+    de: Chinesisch
   postal_code: false
 MP:
   continent: Australia
@@ -6641,7 +6641,7 @@ MP:
   nationality: American
   nationality_translations:
     en: American
-    de: American
+    de: Amerikanisch
   postal_code: true
 MQ:
   continent: North America
@@ -6681,7 +6681,7 @@ MQ:
   nationality: French
   nationality_translations:
     en: French
-    de: French
+    de: Französisch
   postal_code: true
 MR:
   continent: Africa
@@ -6724,7 +6724,7 @@ MR:
   nationality: Mauritanian
   nationality_translations:
     en: Mauritanian
-    de: Mauritanian
+    de: Mauretanisch
   postal_code: false
 MS:
   continent: North America
@@ -6763,7 +6763,7 @@ MS:
   nationality: Montserratian
   nationality_translations:
     en: Montserratian
-    de: Montserratian
+    de: Montserratisch
   postal_code: false
 MT:
   continent: Europe
@@ -6804,7 +6804,7 @@ MT:
   nationality: Maltese
   nationality_translations:
     en: Maltese
-    de: Maltese
+    de: Maltesisch
   eu_member: true
   postal_code: true
 MU:
@@ -6846,7 +6846,7 @@ MU:
   nationality: Mauritian
   nationality_translations:
     en: Mauritian
-    de: Mauritian
+    de: Mauritianisch
   postal_code: false
 MV:
   continent: Asia
@@ -6888,7 +6888,7 @@ MV:
   nationality: Maldivan
   nationality_translations:
     en: Maldivan
-    de: Maldivan
+    de: Maledivisch
   postal_code: true
 MW:
   continent: Africa
@@ -6928,7 +6928,7 @@ MW:
   nationality: Malawian
   nationality_translations:
     en: Malawian
-    de: Malawian
+    de: Malawisch
   postal_code: false
 MX:
   continent: North America
@@ -6979,7 +6979,7 @@ MX:
   nationality: Mexican
   nationality_translations:
     en: Mexican
-    de: Mexican
+    de: Mexikanisch
   postal_code: true
 MY:
   continent: Asia
@@ -7022,7 +7022,7 @@ MY:
   nationality: Malaysian
   nationality_translations:
     en: Malaysian
-    de: Malaysian
+    de: Malaysianisch
   postal_code: true
 MZ:
   continent: Africa
@@ -7063,7 +7063,7 @@ MZ:
   nationality: Mozambican
   nationality_translations:
     en: Mozambican
-    de: Mozambican
+    de: Mosambikanisch
   postal_code: true
 NA:
   continent: Africa
@@ -7107,7 +7107,7 @@ NA:
   nationality: Namibian
   nationality_translations:
     en: Namibian
-    de: Namibian
+    de: Namibianisch
   postal_code: true
 NC:
   continent: Australia
@@ -7150,7 +7150,7 @@ NC:
   nationality: New Caledonian
   nationality_translations:
     en: New Caledonian
-    de: New Caledonian
+    de: Neukaledonisch
   postal_code: true
 NE:
   continent: Africa
@@ -7190,7 +7190,7 @@ NE:
   nationality: Nigerian
   nationality_translations:
     en: Nigerian
-    de: Nigerian
+    de: Nigerisch
   postal_code: true
 NF:
   continent: Australia
@@ -7233,7 +7233,7 @@ NF:
   nationality: Norfolk Islander
   nationality_translations:
     en: Norfolk Islander
-    de: Norfolk Islander
+    de: Norfolk-Insulaner
   postal_code: true
 NG:
   continent: Africa
@@ -7275,7 +7275,7 @@ NG:
   nationality: Nigerian
   nationality_translations:
     en: Nigerian
-    de: Nigerian
+    de: Nigerianer
   postal_code: true
 NI:
   continent: North America
@@ -7314,7 +7314,7 @@ NI:
   nationality: Nicaraguan
   nationality_translations:
     en: Nicaraguan
-    de: Nicaraguan
+    de: Nicaraguanisch
   postal_code: true
 NL:
   continent: Europe
@@ -7364,7 +7364,7 @@ NL:
   nationality: Dutch
   nationality_translations:
     en: Dutch
-    de: Dutch
+    de: Niederländisch
   eu_member: true
   postal_code: true
 'NO':
@@ -7415,7 +7415,7 @@ NL:
   nationality: Norwegian
   nationality_translations:
     en: Norwegian
-    de: Norwegian
+    de: Norwegisch
   postal_code: true
 NP:
   continent: Asia
@@ -7457,7 +7457,7 @@ NP:
   nationality: Nepalese
   nationality_translations:
     en: Nepalese
-    de: Nepalese
+    de: Nepalesisch
   postal_code: true
 NR:
   continent: Australia
@@ -7497,7 +7497,7 @@ NR:
   nationality: Nauruan
   nationality_translations:
     en: Nauruan
-    de: Nauruan
+    de: Nauruanisch
   postal_code: false
 NU:
   continent: Australia
@@ -7536,7 +7536,7 @@ NU:
   nationality: Niuean
   nationality_translations:
     en: Niuean
-    de: Niuean
+    de: Niueisch
   postal_code: false
 NZ:
   continent: Australia
@@ -7589,7 +7589,7 @@ NZ:
   nationality: New Zealander
   nationality_translations:
     en: New Zealander
-    de: New Zealander
+    de: Neuseeländisch
   postal_code: true
 OM:
   continent: Asia
@@ -7638,7 +7638,7 @@ OM:
   nationality: Omani
   nationality_translations:
     en: Omani
-    de: Omani
+    de: Omanisch
   postal_code: true
 PA:
   continent: North America
@@ -7679,7 +7679,7 @@ PA:
   nationality: Panamanian
   nationality_translations:
     en: Panamanian
-    de: Panamanian
+    de: Panamanisch
   postal_code: false
 PE:
   continent: South America
@@ -7721,7 +7721,7 @@ PE:
   nationality: Peruvian
   nationality_translations:
     en: Peruvian
-    de: Peruvian
+    de: Peruanisch
   postal_code: true
 PF:
   continent: Australia
@@ -7764,7 +7764,7 @@ PF:
   nationality: French Polynesian
   nationality_translations:
     en: French Polynesian
-    de: French Polynesian
+    de: Französisch-Polynesisch
   postal_code: true
 PG:
   continent: Australia
@@ -7807,7 +7807,7 @@ PG:
   nationality: Papua New Guinean
   nationality_translations:
     en: Papua New Guinean
-    de: Papua New Guinean
+    de: Papua-Neuguineaisch
   postal_code: true
 PH:
   continent: Asia
@@ -7859,7 +7859,7 @@ PH:
   nationality: Filipino
   nationality_translations:
     en: Filipino
-    de: Filipino
+    de: Philippinisch
   postal_code: true
 PK:
   continent: Asia
@@ -7901,7 +7901,7 @@ PK:
   nationality: Pakistani
   nationality_translations:
     en: Pakistani
-    de: Pakistani
+    de: Pakistanisch
   postal_code: true
 PL:
   continent: Europe
@@ -7952,7 +7952,7 @@ PL:
   nationality: Polish
   nationality_translations:
     en: Polish
-    de: Polish
+    de: Polnisch
   eu_member: true
   postal_code: true
 PM:
@@ -7996,7 +7996,7 @@ PM:
   nationality: French
   nationality_translations:
     en: French
-    de: French
+    de: Französisch
   postal_code: true
 PN:
   continent: Australia
@@ -8035,7 +8035,7 @@ PN:
   nationality: Pitcairn Islander
   nationality_translations:
     en: Pitcairn Islander
-    de: Pitcairn Islander
+    de: Pitcairn 
   postal_code: true
 PR:
   continent: North America
@@ -8076,7 +8076,7 @@ PR:
   nationality: Puerto Rican
   nationality_translations:
     en: Puerto Rican
-    de: Puerto Rican
+    de: Puerto Ricaner
   postal_code: true
 PS:
   continent: Asia
@@ -8122,7 +8122,7 @@ PS:
   nationality: Palestinian
   nationality_translations:
     en: Palestinian
-    de: Palestinian
+    de: Palästinenser
   postal_code: true
 PT:
   continent: Europe
@@ -8169,7 +8169,7 @@ PT:
   nationality: Portuguese
   nationality_translations:
     en: Portuguese
-    de: Portuguese
+    de: Portugiese
   eu_member: true
   postal_code: true
 PW:
@@ -8209,7 +8209,7 @@ PW:
   nationality: Palauan
   nationality_translations:
     en: Palauan
-    de: Palauan
+    de: Palauanisch
   postal_code: true
 PY:
   continent: South America
@@ -8250,7 +8250,7 @@ PY:
   nationality: Paraguayan
   nationality_translations:
     en: Paraguayan
-    de: Paraguayan
+    de: Paraguayanisch
   postal_code: true
 QA:
   continent: Asia
@@ -8298,7 +8298,7 @@ QA:
   nationality: Qatari
   nationality_translations:
     en: Qatari
-    de: Qatari
+    de: Katarisch
   postal_code: false
 RE:
   continent: Africa
@@ -8338,7 +8338,7 @@ RE:
   nationality: French
   nationality_translations:
     en: French
-    de: French
+    de: Französisch
   postal_code: true
 RO:
   continent: Europe
@@ -8388,7 +8388,7 @@ RO:
   nationality: Romanian
   nationality_translations:
     en: Romanian
-    de: Romanian
+    de: Rumänisch
   eu_member: true
   postal_code: true
 RS:
@@ -8431,7 +8431,7 @@ RS:
   nationality: Serbian
   nationality_translations:
     en: Serbian
-    de: Serbian
+    de: Serbisch
   postal_code: true
 RU:
   continent: Europe
@@ -8483,7 +8483,7 @@ RU:
   nationality: Russian
   nationality_translations:
     en: Russian
-    de: Russian
+    de: Russisch
   postal_code: true
 RW:
   continent: Africa
@@ -8527,7 +8527,7 @@ RW:
   nationality: Rwandan
   nationality_translations:
     en: Rwandan
-    de: Rwandan
+    de: Ruandische
   postal_code: false
 SA:
   continent: Asia
@@ -8579,7 +8579,7 @@ SA:
   nationality: Saudi Arabian
   nationality_translations:
     en: Saudi Arabian
-    de: Saudi Arabian
+    de: Saudi-Arabisch
   postal_code: false
 SB:
   continent: Australia
@@ -8622,7 +8622,7 @@ SB:
   nationality: Solomon Islander
   nationality_translations:
     en: Solomon Islander
-    de: Solomon Islander
+    de: Solomon-Insulaner
   postal_code: false
 SC:
   continent: Africa
