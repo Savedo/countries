@@ -8663,7 +8663,7 @@ SC:
   nationality: Seychellois
   nationality_translations:
     en: Seychellois
-    de: Seychellois
+    de: Seychellisch
   postal_code: false
 SD:
   continent: Africa
@@ -8707,7 +8707,7 @@ SD:
   nationality: Sudanese
   nationality_translations:
     en: Sudanese
-    de: Sudanese
+    de: Sudanesisch
   postal_code: true
 SE:
   continent: Europe
@@ -8758,7 +8758,7 @@ SE:
   nationality: Swedish
   nationality_translations:
     en: Swedish
-    de: Swedish
+    de: Schwedisch
   eu_member: true
   postal_code: true
 SG:
@@ -8811,7 +8811,7 @@ SG:
   nationality: Singaporean
   nationality_translations:
     en: Singaporean
-    de: Singaporean
+    de: Singapurisch
   postal_code: true
 SH:
   continent: Africa
@@ -8854,7 +8854,7 @@ SH:
   nationality: Saint Helenian
   nationality_translations:
     en: Saint Helenian
-    de: Saint Helenian
+    de: Saint-Helenisch
   postal_code: true
 SI:
   continent: Europe
@@ -8905,7 +8905,7 @@ SI:
   nationality: Slovene
   nationality_translations:
     en: Slovene
-    de: Slovene
+    de: Slowenisch
   eu_member: true
   postal_code: true
 SJ:
@@ -8949,7 +8949,7 @@ SJ:
   nationality: Norwegian
   nationality_translations:
     en: Norwegian
-    de: Norwegian
+    de: Norwegisch
   postal_code: true
 SK:
   continent: Europe
@@ -9000,7 +9000,7 @@ SK:
   nationality: Slovak
   nationality_translations:
     en: Slovak
-    de: Slovak
+    de: Slowakisch
   eu_member: true
   postal_code: true
 SL:
@@ -9040,7 +9040,7 @@ SL:
   nationality: Sierra Leonean
   nationality_translations:
     en: Sierra Leonean
-    de: Sierra Leonean
+    de: Sierra-Leonisch
   postal_code: false
 SM:
   continent: Europe
@@ -9083,7 +9083,7 @@ SM:
   nationality: Sammarinese
   nationality_translations:
     en: Sammarinese
-    de: Sammarinese
+    de: Sammarinesisch
   postal_code: true
 SN:
   continent: Africa
@@ -9123,7 +9123,7 @@ SN:
   nationality: Senegalese
   nationality_translations:
     en: Senegalese
-    de: Senegalese
+    de: Senegalesisch
   postal_code: true
 SO:
   continent: Africa
@@ -9166,7 +9166,7 @@ SO:
   nationality: Somali
   nationality_translations:
     en: Somali
-    de: Somali
+    de: Somalisch
   postal_code: false
 SR:
   continent: South America
@@ -9206,7 +9206,7 @@ SR:
   nationality: Surinamer
   nationality_translations:
     en: Surinamer
-    de: Surinamer
+    de: Surinamesisch
   postal_code: false
 SS:
   continent: Africa
@@ -9247,7 +9247,7 @@ SS:
   nationality: South Sudanese
   nationality_translations:
     en: South Sudanese
-    de: South Sudanese
+    de: Südsudanesisch
   postal_code: true
 ST:
   continent: Africa
@@ -9291,7 +9291,7 @@ ST:
   nationality: Sao Tomean
   nationality_translations:
     en: Sao Tomean
-    de: Sao Tomean
+    de: Sao Tomeanisch
   postal_code: false
 SV:
   continent: North America
@@ -9331,7 +9331,7 @@ SV:
   nationality: Salvadoran
   nationality_translations:
     en: Salvadoran
-    de: Salvadoran
+    de: Salvadorianisch
   postal_code: true
 SX:
   continent: North America
@@ -9367,7 +9367,7 @@ SX:
   nationality: Dutch
   nationality_translations:
     en: Dutch
-    de: Dutch
+    de: Niederländisch
   postal_code: true
 SY:
   continent: Asia
@@ -9419,7 +9419,7 @@ SY:
   nationality: Syrian
   nationality_translations:
     en: Syrian
-    de: Syrian
+    de: Syrisch
   postal_code: false
 SZ:
   continent: Africa
@@ -9461,7 +9461,7 @@ SZ:
   nationality: Swazi
   nationality_translations:
     en: Swazi
-    de: Swazi
+    de: Swasi
   postal_code: true
 TC:
   continent: North America
@@ -9504,7 +9504,7 @@ TC:
   nationality: Turks and Caicos Islander
   nationality_translations:
     en: Turks and Caicos Islander
-    de: Turks and Caicos Islander
+    de: Turks- und Caicosinseln
   postal_code: true
 TD:
   continent: Africa
@@ -9548,7 +9548,7 @@ TD:
   nationality: Chadian
   nationality_translations:
     en: Chadian
-    de: Chadian
+    de: Tschadisch
   postal_code: true
 TF:
   continent: Antarctica
@@ -9589,7 +9589,7 @@ TF:
   nationality: French
   nationality_translations:
     en: French
-    de: French
+    de: Französich
   postal_code: false
 TG:
   continent: Africa
@@ -9629,7 +9629,7 @@ TG:
   nationality: Togolese
   nationality_translations:
     en: Togolese
-    de: Togolese
+    de: Togolesisch
   postal_code: true
 TH:
   continent: Asia
@@ -9672,7 +9672,7 @@ TH:
   nationality: Thai
   nationality_translations:
     en: Thai
-    de: Thai
+    de: Thailändisch
   postal_code: true
 TJ:
   continent: Asia
@@ -9717,7 +9717,7 @@ TJ:
   nationality: Tadzhik
   nationality_translations:
     en: Tadzhik
-    de: Tadzhik
+    de: Tadschikisch
   postal_code: true
 TK:
   continent: Australia
@@ -9758,7 +9758,7 @@ TK:
   nationality: Tokelauan
   nationality_translations:
     en: Tokelauan
-    de: Tokelauan
+    de: Tokelauisch
   postal_code: false
 TL:
   continent: Asia
@@ -9801,7 +9801,7 @@ TL:
   nationality: East Timorese
   nationality_translations:
     en: East Timorese
-    de: East Timorese
+    de: Timor-Lestisch
   postal_code: false
 TM:
   continent: Asia
@@ -9844,7 +9844,7 @@ TM:
   nationality: Turkmen
   nationality_translations:
     en: Turkmen
-    de: Turkmen
+    de: Turkmenisch
   postal_code: true
 TN:
   continent: Africa
@@ -9889,7 +9889,7 @@ TN:
   nationality: Tunisian
   nationality_translations:
     en: Tunisian
-    de: Tunisian
+    de: Tunesisch
   postal_code: true
 TO:
   continent: Australia
@@ -9932,7 +9932,7 @@ TO:
   nationality: Tongan
   nationality_translations:
     en: Tongan
-    de: Tongan
+    de: Tonganisch
   postal_code: false
 TR:
   continent: Europe
@@ -9983,7 +9983,7 @@ TR:
   nationality: Turkish
   nationality_translations:
     en: Turkish
-    de: Turkish
+    de: Türkisch
   postal_code: true
 TT:
   continent: North America
@@ -10027,7 +10027,7 @@ TT:
   nationality: Trinidadian
   nationality_translations:
     en: Trinidadian
-    de: Trinidadian
+    de: Trinidadisch
   postal_code: false
 TV:
   continent: Australia
@@ -10066,7 +10066,7 @@ TV:
   nationality: Tuvaluan
   nationality_translations:
     en: Tuvaluan
-    de: Tuvaluan
+    de: Tuvaluanisch
   postal_code: false
 TW:
   continent: Asia
@@ -10115,7 +10115,7 @@ TW:
   nationality: Taiwanese
   nationality_translations:
     en: Taiwanese
-    de: Taiwanese
+    de: Taiwanesisch
   postal_code: true
 TZ:
   continent: Africa
@@ -10158,7 +10158,7 @@ TZ:
   nationality: Tanzanian
   nationality_translations:
     en: Tanzanian
-    de: Tanzanian
+    de: Tanzanische
   postal_code: false
 UA:
   continent: Europe
@@ -10212,7 +10212,7 @@ UA:
   nationality: Ukrainian
   nationality_translations:
     en: Ukrainian
-    de: Ukrainian
+    de: Ukrainische
   postal_code: true
 UG:
   continent: Africa
@@ -10253,7 +10253,7 @@ UG:
   nationality: Ugandan
   nationality_translations:
     en: Ugandan
-    de: Ugandan
+    de: Ugandische
   postal_code: false
 UM:
   continent: Australia
@@ -10294,7 +10294,7 @@ UM:
   nationality: American
   nationality_translations:
     en: American
-    de: American
+    de: Amerikanisch
   postal_code: true
 US:
   continent: North America
@@ -10345,7 +10345,7 @@ US:
   nationality: American
   nationality_translations:
     en: American
-    de: American
+    de: Amerikanisch
   postal_code: true
 UY:
   continent: South America
@@ -10386,7 +10386,7 @@ UY:
   nationality: Uruguayan
   nationality_translations:
     en: Uruguayan
-    de: Uruguayan
+    de: Uruguayisch
   postal_code: true
 UZ:
   continent: Asia
@@ -10431,7 +10431,7 @@ UZ:
   nationality: Uzbekistani
   nationality_translations:
     en: Uzbekistani
-    de: Uzbekistani
+    de: Usbekisch
   postal_code: true
 VA:
   continent: Europe
@@ -10476,7 +10476,7 @@ VA:
   nationality: Italian
   nationality_translations:
     en: Italian
-    de: Italian
+    de: Italienisch
   postal_code: true
 VC:
   continent: North America
@@ -10519,7 +10519,7 @@ VC:
   nationality: Saint Vincentian
   nationality_translations:
     en: Saint Vincentian
-    de: Saint Vincentian
+    de: Saint Vincentianisches
   postal_code: true
 VE:
   continent: South America
@@ -10558,7 +10558,7 @@ VE:
   nationality: Venezuelan
   nationality_translations:
     en: Venezuelan
-    de: Venezuelan
+    de: Venezuelanisch
   postal_code: true
 VG:
   continent: North America
@@ -10601,7 +10601,7 @@ VG:
   nationality: Virgin Islander
   nationality_translations:
     en: Virgin Islander
-    de: Virgin Islander
+    de: Jungferninseln
   postal_code: true
 VI:
   continent: North America
@@ -10644,7 +10644,7 @@ VI:
   nationality: Virgin Islander
   nationality_translations:
     en: Virgin Islander
-    de: Virgin Islander
+    de: Jungfernsinseln
   postal_code: true
 VN:
   continent: Asia
@@ -10686,7 +10686,7 @@ VN:
   nationality: Vietnamese
   nationality_translations:
     en: Vietnamese
-    de: Vietnamese
+    de: Vietnamesisch
   postal_code: true
 VU:
   continent: Australia
@@ -10729,7 +10729,7 @@ VU:
   nationality: Ni-Vanuatu
   nationality_translations:
     en: Ni-Vanuatu
-    de: Ni-Vanuatu
+    de: Ni-Vanuatuisch
   postal_code: false
 WF:
   continent: Australia
@@ -10772,7 +10772,7 @@ WF:
   nationality: Wallis and Futuna Islander
   nationality_translations:
     en: Wallis and Futuna Islander
-    de: Wallis and Futuna Islander
+    de: Wallis und Futuna 
   postal_code: true
 WS:
   continent: Australia
@@ -10813,7 +10813,7 @@ WS:
   nationality: Samoan
   nationality_translations:
     en: Samoan
-    de: Samoan
+    de: Samoanisch
   postal_code: true
 YE:
   continent: Asia
@@ -10863,7 +10863,7 @@ YE:
   nationality: Yemeni
   nationality_translations:
     en: Yemeni
-    de: Yemeni
+    de: Jemenitisch
   postal_code: false
 YT:
   continent: Africa
@@ -10902,7 +10902,7 @@ YT:
   nationality: French
   nationality_translations:
     en: French
-    de: French
+    de: Französisch
   postal_code: true
 ZA:
   continent: Africa
@@ -10966,7 +10966,7 @@ ZA:
   nationality: South African
   nationality_translations:
     en: South African
-    de: South African
+    de: Südafrikanisch
   postal_code: false
 ZM:
   continent: Africa
@@ -11008,7 +11008,7 @@ ZM:
   nationality: Zambian
   nationality_translations:
     en: Zambian
-    de: Zambian
+    de: Sambisch
   postal_code: true
 ZW:
   continent: Africa
@@ -11055,5 +11055,5 @@ ZW:
   nationality: Zimbabwean
   nationality_translations:
     en: Zimbabwean
-    de: Zimbabwean
+    de: Simbabwisch
   postal_code: false
