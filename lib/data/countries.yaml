@@ -44,6 +44,7 @@ AD:
     en: Andorran
     de: Andorranisch
     at: Andorranisch
+    nl: Andorrees
   postal_code: true
 AE:
   continent: Asia
@@ -616,6 +617,7 @@ AT:
     en: Austrian
     de: Österreichisch
     at: Österreichisch
+    nl: Oostenrijks
   eu_member: true
   postal_code: true
 AU:
@@ -668,6 +670,7 @@ AU:
     en: Australian
     de: Australisch
     at: Australisch
+    nl: Australisch
   postal_code: true
 AW:
   continent: North America
@@ -709,6 +712,7 @@ AW:
     en: Aruban
     de: Arubanisch
     at: Arubanisch
+    nl: Arubaans
   postal_code: false
 AX:
   continent: Europe
@@ -990,6 +994,7 @@ BE:
     en: Belgian
     de: Belgisch
     at: Belgisch
+    nl: Belgisch
   eu_member: true
   postal_code: true
 BF:
@@ -1086,6 +1091,7 @@ BG:
     en: Bulgarian
     de: Bulgarisch
     at: Bulgarisch
+    nl: Bulgaars
   eu_member: true
   postal_code: true
 BH:
@@ -1483,6 +1489,7 @@ BR:
     en: Brazilian
     de: Brasilianisch
     at: Brasilianisch
+    nl: Braziliaans
   postal_code: true
 BS:
   continent: North America
@@ -1697,6 +1704,7 @@ BY:
     en: Belarusian
     de: Weißrussisch
     at: Weißrussisch
+    nl: Wit-Russisch
   postal_code: true
 BZ:
   continent: North America
@@ -1792,6 +1800,7 @@ CA:
     en: Canadian
     de: Kanadisch
     at: Kanadisch
+    nl: Canadees
   postal_code: true
 CC:
   continent: Asia
@@ -2028,6 +2037,7 @@ CH:
     en: Swiss
     de: Schweizer
     at: Schweizer
+    nl: Zwitsers
   postal_code: true
 CI:
   continent: Africa
@@ -2207,6 +2217,7 @@ CM:
     en: Cameroonian
     de: Kameruner
     at: Kameruner
+    nl: Kameroens
   postal_code: false
 CN:
   continent: Asia
@@ -2261,6 +2272,7 @@ CN:
     en: Chinese
     de: Chinese
     at: Chinese
+    nl: Chinees
   postal_code: true
 CO:
   continent: South America
@@ -2306,6 +2318,7 @@ CO:
     en: Colombian
     de: Kolumbianer
     at: Kolumbianer
+    nl: Colombiaans
   postal_code: true
 CR:
   continent: North America
@@ -2347,6 +2360,7 @@ CR:
     en: Costa Rican
     de: Costa Ricaner
     at: Costa Ricaner
+    nl: Costa Ricaans
   postal_code: true
 CU:
   continent: North America
@@ -2389,6 +2403,7 @@ CU:
     en: Cuban
     de: Kubanisch
     at: Kubanisch
+    nl: Cubaans
   postal_code: true
 CV:
   continent: Africa
@@ -2561,6 +2576,7 @@ CY:
     en: Cypriot
     de: Zypriotisch
     at: Zypriotisch
+    nl: Cyprisch
   eu_member: true
   postal_code: true
 CZ:
@@ -2615,6 +2631,7 @@ CZ:
     en: Czech
     de: Tschechisch
     at: Tschechisch
+    nl: Tsjechisch
   eu_member: true
   postal_code: true
 DE:
@@ -2677,6 +2694,7 @@ DE:
     en: German
     de: Deutsch
     at: Deutsch
+    nl: Duits
   eu_member: true
   postal_code: true
 DJ:
@@ -2776,6 +2794,7 @@ DK:
     en: Danish
     de: Dänisch
     at: Dänisch
+    nl: Deens
   eu_member: true
   postal_code: true
 DM:
@@ -2910,6 +2929,7 @@ DZ:
     en: Algerian
     de: Algerisch
     at: Algerisch
+    nl: Algerijns
   postal_code: true
 EC:
   continent: South America
@@ -2998,6 +3018,7 @@ EE:
     en: Estonian
     de: Estnisch
     at: Estnisch
+    nl: Estlands
   eu_member: true
   postal_code: true
 EG:
@@ -3052,6 +3073,7 @@ EG:
     en: Egyptian
     de: Ägyptisch
     at: Ägyptisch
+    nl: Egyptisch
   postal_code: true
 EH:
   continent: Africa
@@ -3193,6 +3215,7 @@ ES:
     en: Spanish
     de: Spanisch
     at: Spanisch
+    nl: Spaans
   eu_member: true
   postal_code: true
 ET:
@@ -3240,6 +3263,7 @@ ET:
     en: Ethiopian
     de: Äthiopisch
     at: Äthiopisch
+    nl: Ethiopisch
   postal_code: true
 FI:
   continent: Europe
@@ -3293,6 +3317,7 @@ FI:
     en: Finnish
     de: Finnisch
     at: Finnisch
+    nl: Fins
   eu_member: true
   postal_code: true
 FJ:
@@ -3529,6 +3554,7 @@ FR:
     en: French
     de: Französisch
     at: Französisch
+    nl: Frans
   eu_member: true
   postal_code: true
 GA:
@@ -3633,6 +3659,7 @@ GB:
     en: British
     de: Britisch
     at: Britisch
+    nl: Brits
   eu_member: true
   postal_code: true
 GD:
@@ -3719,6 +3746,7 @@ GE:
     en: Georgian
     de: Georgisch
     at: Georgisch
+    nl: Georgisch
   postal_code: true
 GF:
   continent: South America
@@ -3851,6 +3879,7 @@ GH:
     en: Ghanaian
     de: Ghanaisch
     at: Ghanaisch
+    nl: Ghanees
   postal_code: false
 GI:
   continent: Europe
@@ -3943,6 +3972,7 @@ GL:
     en: Greenlandic
     de: Grönländisch
     at: Grönländisch
+    nl: Groenlands
   postal_code: true
 GM:
   continent: Africa
@@ -3984,6 +4014,7 @@ GM:
     en: Gambian
     de: Gambisch
     at: Gambisch
+    nl: Gambiaans
   postal_code: false
 GN:
   continent: Africa
@@ -4168,6 +4199,7 @@ GR:
     en: Greek
     de: Griechisch
     at: Griechisch
+    nl: Grieks
   eu_member: true
   postal_code: true
 GS:
@@ -4429,6 +4461,7 @@ HK:
     en: Chinese
     de: Chinesisch
     at: Chinesisch
+    nl: Hongkonger
   postal_code: false
 HM:
   continent: Antarctica
@@ -4512,6 +4545,7 @@ HN:
     en: Honduran
     de: Honduranisch
     at: Honduranisch
+    nl: Hondurees
   postal_code: true
 HR:
   continent: Europe
@@ -4564,6 +4598,7 @@ HR:
     en: Croatian
     de: Kroatisch
     at: Kroatisch
+    nl: Kroatisch
   eu_member: true
   postal_code: true
 HT:
@@ -4608,6 +4643,7 @@ HT:
     en: Haitian
     de: Haitianisch
     at: Haitianisch
+    nl: Haïtiaans
   postal_code: true
 HU:
   continent: Europe
@@ -4663,6 +4699,7 @@ HU:
     en: Hungarian
     de: Ungarisch
     at: Ungarisch
+    nl: Hongaars
   eu_member: true
   postal_code: true
 ID:
@@ -4720,6 +4757,7 @@ ID:
     en: Indonesian
     de: Indonesisch
     at: Indonesisch
+    nl: Indonesisch
   postal_code: true
 IE:
   continent: Europe
@@ -4774,6 +4812,7 @@ IE:
     en: Irish
     de: Irisch
     at: Irisch
+    nl: Iers
   eu_member: true
   postal_code: false
 IL:
@@ -4828,6 +4867,7 @@ IL:
     en: Israeli
     de: Israelisch
     at: Israelisch
+    nl: Israelisch
   postal_code: true
 IM:
   continent: Europe
@@ -4925,6 +4965,7 @@ IN:
     en: Indian
     de: Indisch
     at: Indisch
+    nl: Indiaas
   postal_code: true
 IO:
   continent: Asia
@@ -5011,6 +5052,7 @@ IQ:
     en: Iraqi
     de: Irakisch
     at: Irakisch
+    nl: Irakees
   postal_code: true
 IR:
   continent: Asia
@@ -5052,6 +5094,7 @@ IR:
     en: Iranian
     de: Iranisch
     at: Iranisch
+    nl: Iraans
   postal_code: true
 IS:
   continent: Europe
@@ -5106,6 +5149,7 @@ IS:
     en: Icelander
     de: Isländisch
     at: Isländisch
+    nl: Ijslands
   postal_code: true
 IT:
   continent: Europe
@@ -5159,6 +5203,7 @@ IT:
     en: Italian
     de: Italienisch
     at: Italienisch
+    nl: Italiaans
   eu_member: true
   postal_code: true
 JE:
@@ -5243,6 +5288,7 @@ JM:
     en: Jamaican
     de: Jamaikanisch
     at: Jamaikanisch
+    nl: Jamaicaans
   postal_code: false
 JO:
   continent: Asia
@@ -5297,6 +5343,7 @@ JO:
     en: Jordanian
     de: Jordanisch
     at: Jordanisch
+    nl: Jordaans
   postal_code: true
 JP:
   continent: Asia
@@ -5349,6 +5396,7 @@ JP:
     en: Japanese
     de: Japanisch
     at: Japanisch
+    nl: Japans
   postal_code: true
 KE:
   continent: Africa
@@ -5392,6 +5440,7 @@ KE:
     en: Kenyan
     de: Kenianisch
     at: Kenianisch
+    nl: Keniaas
   postal_code: false
 KG:
   continent: Asia
@@ -5483,6 +5532,7 @@ KH:
     en: Cambodian
     de: Kambodschanisch
     at: Kambodschanisch
+    nl: Cambodiaans
   postal_code: true
 KI:
   continent: Australia
@@ -5661,6 +5711,7 @@ KP:
     en: North Korean
     de: Nordkoreanisch
     at: Nordkoreanisch
+    nl: Koreans (Noord)
   postal_code: false
 KR:
   continent: Asia
@@ -5717,6 +5768,7 @@ KR:
     en: South Korean
     de: Südkoreanisch
     at: Südkoreanisch
+    nl: Koreaans (Zuid)
   postal_code: true
 KW:
   continent: Asia
@@ -5770,6 +5822,7 @@ KW:
     en: Kuwaiti
     de: Kuwaitisch
     at: Kuwaitisch
+    nl: Koeweits
   postal_code: true
 KY:
   continent: North America
@@ -5861,6 +5914,7 @@ KZ:
     en: Kazakhstani
     de: Kasachisch
     at: Kasachisch
+    nl: Kazaks
   postal_code: true
 LA:
   continent: Asia
@@ -5903,6 +5957,7 @@ LA:
     en: Laotian
     de: Laotisch
     at: Laotisch
+    nl: Laotiaans
   postal_code: true
 LB:
   continent: Asia
@@ -5956,6 +6011,7 @@ LB:
     en: Lebanese
     de: Libanesisch
     at: Libanesisch
+    nl: Libanees
   postal_code: true
 LC:
   continent: North America
@@ -6040,6 +6096,7 @@ LI:
     en: Liechtensteiner
     de: Liechtensteinisch
     at: Liechtensteinisch
+    nl: Liechtensteins
   postal_code: true
 LK:
   continent: Asia
@@ -6214,6 +6271,7 @@ LT:
     en: Lithuanian
     de: Litauisch
     at: Litauisch
+    nl: Litouws
   eu_member: true
   postal_code: true
 LU:
@@ -6267,6 +6325,7 @@ LU:
     en: Luxembourger
     de: Luxemburgisch
     at: Luxemburgisch
+    nl: Luxemburgs
   eu_member: true
   postal_code: true
 LV:
@@ -6313,6 +6372,7 @@ LV:
     en: Latvian
     de: Lettisch
     at: Lettisch
+    nl: Lets
   eu_member: true
   postal_code: true
 LY:
@@ -6361,6 +6421,7 @@ LY:
     en: Libyan
     de: Libysch
     at: Libysch
+    nl: Libisch
   postal_code: true
 MA:
   continent: Africa
@@ -6406,6 +6467,7 @@ MA:
     en: Moroccan
     de: Morokkanisch
     at: Morokkanisch
+    nl: Marokkaans
   postal_code: true
 MC:
   continent: Europe
@@ -6495,6 +6557,7 @@ MD:
     en: Moldovan
     de: Moldawisch
     at: Moldawisch
+    nl: Moldavisch
   postal_code: true
 ME:
   continent: Europe
@@ -6540,6 +6603,7 @@ ME:
     en: Montenegrin
     de: Montenegrinisch
     at: Montenegrinisch
+    nl: Montenegrijns
   postal_code: true
 MF:
   continent: North America
@@ -6724,6 +6788,7 @@ MK:
     en: Macedonian
     de: Mazedonisch
     at: Mazedonisch
+    nl: Macedonisch
   postal_code: true
 ML:
   continent: Africa
@@ -6765,6 +6830,7 @@ ML:
     en: Malian
     de: Malisch
     at: Malisch
+    nl: Malinees
   postal_code: false
 MM:
   continent: Asia
@@ -6854,6 +6920,7 @@ MN:
     en: Mongolian
     de: Mongolisch
     at: Mongolisch
+    nl: Mongools
   postal_code: true
 MO:
   continent: Asia
@@ -7029,6 +7096,7 @@ MR:
     en: Mauritanian
     de: Mauretanisch
     at: Mauretanisch
+    nl: Mauretanisch
   postal_code: false
 MS:
   continent: North America
@@ -7113,6 +7181,7 @@ MT:
     en: Maltese
     de: Maltesisch
     at: Maltesisch
+    nl: Maltees
   eu_member: true
   postal_code: true
 MU:
@@ -7157,6 +7226,7 @@ MU:
     en: Mauritian
     de: Mauritianisch
     at: Mauritianisch
+    nl: Mauritiaans
   postal_code: false
 MV:
   continent: Asia
@@ -7201,6 +7271,7 @@ MV:
     en: Maldivan
     de: Maledivisch
     at: Maledivisch
+    nl: Maledivisch
   postal_code: true
 MW:
   continent: Africa
@@ -7243,6 +7314,7 @@ MW:
     en: Malawian
     de: Malawisch
     at: Malawisch
+    nl: Malawisch
   postal_code: false
 MX:
   continent: North America
@@ -7296,6 +7368,7 @@ MX:
     en: Mexican
     de: Mexikanisch
     at: Mexikanisch
+    nl: Mexicaans
   postal_code: true
 MY:
   continent: Asia
@@ -7341,6 +7414,7 @@ MY:
     en: Malaysian
     de: Malaysianisch
     at: Malaysianisch
+    nl: Maleisisch
   postal_code: true
 MZ:
   continent: Africa
@@ -7384,6 +7458,7 @@ MZ:
     en: Mozambican
     de: Mosambikanisch
     at: Mosambikanisch
+    nl: Mozambikaans
   postal_code: true
 NA:
   continent: Africa
@@ -7430,6 +7505,7 @@ NA:
     en: Namibian
     de: Namibianisch
     at: Namibianisch
+    nl: Namibisch
   postal_code: true
 NC:
   continent: Australia
@@ -7517,6 +7593,7 @@ NE:
     en: Nigerian
     de: Nigerisch
     at: Nigerisch
+    nl: Nigeriaans
   postal_code: true
 NF:
   continent: Australia
@@ -7606,6 +7683,7 @@ NG:
     en: Nigerian
     de: Nigerianer
     at: Nigerianer
+    nl: Nigeriaans
   postal_code: true
 NI:
   continent: North America
@@ -7647,6 +7725,7 @@ NI:
     en: Nicaraguan
     de: Nicaraguanisch
     at: Nicaraguanisch
+    nl: Nicaraguaans
   postal_code: true
 NL:
   continent: Europe
@@ -7753,6 +7832,7 @@ NL:
     en: Norwegian
     de: Norwegisch
     at: Norwegisch
+    nl: Noors
   postal_code: true
 NP:
   continent: Asia
@@ -7797,6 +7877,7 @@ NP:
     en: Nepalese
     de: Nepalesisch
     at: Nepalesisch
+    nl: Nepalees
   postal_code: true
 NR:
   continent: Australia
@@ -7839,6 +7920,7 @@ NR:
     en: Nauruan
     de: Nauruanisch
     at: Nauruanisch
+    nl: Nauruaans
   postal_code: false
 NU:
   continent: Australia
@@ -7935,6 +8017,7 @@ NZ:
     en: New Zealander
     de: Neuseeländisch
     at: Neuseeländisch
+    nl: Nieuw-Zeelands
   postal_code: true
 OM:
   continent: Asia
@@ -8029,6 +8112,7 @@ PA:
     en: Panamanian
     de: Panamanisch
     at: Panamanisch
+    nl: Panamees
   postal_code: false
 PE:
   continent: South America
@@ -8073,6 +8157,7 @@ PE:
     en: Peruvian
     de: Peruanisch
     at: Peruanisch
+    nl: Peruaans
   postal_code: true
 PF:
   continent: Australia
@@ -8217,6 +8302,7 @@ PH:
     en: Filipino
     de: Philippinisch
     at: Philippinisch
+    nl: Filippijns
   postal_code: true
 PK:
   continent: Asia
@@ -8261,6 +8347,7 @@ PK:
     en: Pakistani
     de: Pakistanisch
     at: Pakistanisch
+    nl: Pakistaans
   postal_code: true
 PL:
   continent: Europe
@@ -8314,6 +8401,7 @@ PL:
     en: Polish
     de: Polnisch
     at: Polnisch
+    nl: Pools
   eu_member: true
   postal_code: true
 PM:
@@ -8492,6 +8580,7 @@ PS:
     en: Palestinian
     de: Palästinenser
     at: Palästinenser
+    nl: Palestijns
   postal_code: true
 PT:
   continent: Europe
@@ -8541,6 +8630,7 @@ PT:
     en: Portuguese
     de: Portugiese
     at: Portugiese
+    nl: Portugees
   eu_member: true
   postal_code: true
 PW:
@@ -8770,6 +8860,7 @@ RO:
     en: Romanian
     de: Rumänisch
     at: Rumänisch
+    nl: Roemeens
   eu_member: true
   postal_code: true
 RS:
@@ -8815,6 +8906,7 @@ RS:
     en: Serbian
     de: Serbisch
     at: Serbisch
+    nl: Servisch
   postal_code: true
 RU:
   continent: Europe
@@ -8869,6 +8961,7 @@ RU:
     en: Russian
     de: Russisch
     at: Russisch
+    nl: Russisch
   postal_code: true
 RW:
   continent: Africa
@@ -8915,6 +9008,7 @@ RW:
     en: Rwandan
     de: Ruandische
     at: Ruandische
+    nl: Rwandees
   postal_code: false
 SA:
   continent: Asia
@@ -8969,6 +9063,7 @@ SA:
     en: Saudi Arabian
     de: Saudi-Arabisch
     at: Saudi-Arabisch
+    nl: Saudi-Arabisch
   postal_code: false
 SB:
   continent: Australia
@@ -9103,6 +9198,7 @@ SD:
     en: Sudanese
     de: Sudanesisch
     at: Sudanesisch
+    nl: Soedanees
   postal_code: true
 SE:
   continent: Europe
@@ -9156,6 +9252,7 @@ SE:
     en: Swedish
     de: Schwedisch
     at: Schwedisch
+    nl: Zweeds
   eu_member: true
   postal_code: true
 SG:
@@ -9211,6 +9308,7 @@ SG:
     en: Singaporean
     de: Singapurisch
     at: Singapurisch
+    nl: Singaporees
   postal_code: true
 SH:
   continent: Africa
@@ -9309,6 +9407,7 @@ SI:
     en: Slovene
     de: Slowenisch
     at: Slowenisch
+    nl: Sloveens
   eu_member: true
   postal_code: true
 SJ:
@@ -9408,6 +9507,7 @@ SK:
     en: Slovak
     de: Slowakisch
     at: Slowakisch
+    nl: Slowaaks
   eu_member: true
   postal_code: true
 SL:
@@ -9537,6 +9637,7 @@ SN:
     en: Senegalese
     de: Senegalesisch
     at: Senegalesisch
+    nl: Senegalees
   postal_code: true
 SO:
   continent: Africa
@@ -9582,6 +9683,7 @@ SO:
     en: Somali
     de: Somalisch
     at: Somalisch
+    nl: Somalisch
   postal_code: false
 SR:
   continent: South America
@@ -9624,6 +9726,7 @@ SR:
     en: Surinamer
     de: Surinamesisch
     at: Surinamesisch
+    nl: Surinaams
   postal_code: false
 SS:
   continent: Africa
@@ -9667,6 +9770,7 @@ SS:
     en: South Sudanese
     de: Südsudanesisch
     at: Südsudanesisch
+    nl: Zuid-Soedanees
   postal_code: true
 ST:
   continent: Africa
@@ -9847,6 +9951,7 @@ SY:
     en: Syrian
     de: Syrisch
     at: Syrisch
+    nl: Syrisch
   postal_code: false
 SZ:
   continent: Africa
@@ -10067,6 +10172,7 @@ TG:
     en: Togolese
     de: Togolesisch
     at: Togolesisch
+    nl: Togolees
   postal_code: true
 TH:
   continent: Asia
@@ -10112,6 +10218,7 @@ TH:
     en: Thai
     de: Thailändisch
     at: Thailändisch
+    nl: Thais
   postal_code: true
 TJ:
   continent: Asia
@@ -10339,6 +10446,7 @@ TN:
     en: Tunisian
     de: Tunesisch
     at: Tunesisch
+    nl: Tunesisch
   postal_code: true
 TO:
   continent: Australia
@@ -10384,6 +10492,7 @@ TO:
     en: Tongan
     de: Tonganisch
     at: Tonganisch
+    nl: Tongaans
   postal_code: false
 TR:
   continent: Europe
@@ -10437,6 +10546,7 @@ TR:
     en: Turkish
     de: Türkisch
     at: Türkisch
+    nl: Turks
   postal_code: true
 TT:
   continent: North America
@@ -10483,6 +10593,7 @@ TT:
     en: Trinidadian
     de: Trinidadisch
     at: Trinidadisch
+    nl: Trinidadaans
   postal_code: false
 TV:
   continent: Australia
@@ -10524,6 +10635,7 @@ TV:
     en: Tuvaluan
     de: Tuvaluanisch
     at: Tuvaluanisch
+    nl: Tuvaluaans
   postal_code: false
 TW:
   continent: Asia
@@ -10575,6 +10687,7 @@ TW:
     en: Taiwanese
     de: Taiwanesisch
     at: Taiwanesisch
+    nl: Taiwanees
   postal_code: true
 TZ:
   continent: Africa
@@ -10620,6 +10733,7 @@ TZ:
     en: Tanzanian
     de: Tanzanische
     at: Tanzanische
+    nl: Tanzaniaans
   postal_code: false
 UA:
   continent: Europe
@@ -10676,6 +10790,7 @@ UA:
     en: Ukrainian
     de: Ukrainische
     at: Ukrainische
+    nl: Oekraïens
   postal_code: true
 UG:
   continent: Africa
@@ -10719,6 +10834,7 @@ UG:
     en: Ugandan
     de: Ugandische
     at: Ugandische
+    nl: Ugandees
   postal_code: false
 UM:
   continent: Australia
@@ -10815,6 +10931,7 @@ US:
     en: American
     de: Amerikanisch
     at: Amerikanisch
+    nl: Amerikaans (VS)
   postal_code: true
 UY:
   continent: South America
@@ -10858,6 +10975,7 @@ UY:
     en: Uruguayan
     de: Uruguayisch
     at: Uruguayisch
+    nl: Uruguayaans
   postal_code: true
 UZ:
   continent: Asia
@@ -11038,6 +11156,7 @@ VE:
     en: Venezuelan
     de: Venezuelanisch
     at: Venezuelanisch
+    nl: Venezolaans
   postal_code: true
 VG:
   continent: North America
@@ -11172,6 +11291,7 @@ VN:
     en: Vietnamese
     de: Vietnamesisch
     at: Vietnamesisch
+    nl: Vietnamees
   postal_code: true
 VU:
   continent: Australia
@@ -11357,6 +11477,7 @@ YE:
     en: Yemeni
     de: Jemenitisch
     at: Jemenitisch
+    nl: Jemenitisch
   postal_code: false
 YT:
   continent: Africa
@@ -11464,6 +11585,7 @@ ZA:
     en: South African
     de: Südafrikanisch
     at: Südafrikanisch
+    nl: Zuid-Afrikaans
   postal_code: false
 ZM:
   continent: Africa
@@ -11508,6 +11630,7 @@ ZM:
     en: Zambian
     de: Sambisch
     at: Sambisch
+    nl: Zambiaans
   postal_code: true
 ZW:
   continent: Africa
@@ -11557,4 +11680,5 @@ ZW:
     en: Zimbabwean
     de: Simbabwisch
     at: Simbabwisch
+    nl: Zimbabwaans
   postal_code: false
