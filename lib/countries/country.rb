@@ -99,20 +99,20 @@ class ISO3166::Country
 
     alias :countries :all
 
-    def all_translated(locale = 'en')
+    def all_translated(locale = "en")
       translate = ->(country) { self.new(country[1]).translations[locale] }
       list = self.all.map(&translate).compact.sort
     end
 
-    def nationalities(locale = 'en')
+    def nationalities(locale = "en")
       translate = ->(country) do
-        nationality_translation = self[country[1]].nationality_translations[locale]
-        nationality_translation = self[country[1]].nationality_translations["en"] if nationality_translation.blank?
+        loc_locale = self[country[1]].nationality_translations[locale].blank? ? "en" : locale
 
+        nationality_translation = self[country[1]].nationality_translations[loc_locale]
         next if nationality_translation.blank?
 
         if EXCEPTIONS.include?(country[1])
-          ["#{nationality_translation} (#{self[country[1]].translations[locale]})", country[1]]
+          ["#{nationality_translation} (#{self[country[1]].translations[loc_locale]})", country[1]]
         else
           [nationality_translation, country[1]]
         end
