@@ -371,6 +371,7 @@ AN:
     en: Dutch
     de: Niederländisch
     at: Niederländisch
+    nl: Nederlands
   dissolved_on: '2010-10-10'
   postal_code: false
 AO:
@@ -1417,8 +1418,9 @@ BQ:
     de: Bonaire, Sint Eustatius und Saba
     at: Bonaire, Sint Eustatius und Saba
     fr: Pays-Bas caribéens
-    ru: Бонэйр, Синт-Эстатиус и Саба
     ja: ボネール、シント・ユースタティウスおよびサバ
+    nl: Bonaire, Sint Eustatius en Saba
+    ru: Бонэйр, Синт-Эстатиус и Саба
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -1436,6 +1438,7 @@ BQ:
     en: Dutch
     de: Niederländisch
     at: Niederländisch
+    nl: Nederlands
   postal_code: true
 BR:
   continent: South America
@@ -2487,6 +2490,7 @@ CW:
     en: Dutch
     de: Niederländisch
     at: Niederländisch
+    nl: Nederlands
   postal_code: true
 CX:
   continent: Asia
@@ -8005,7 +8009,7 @@ NZ:
   national_number_lengths:
   - 8
   - 9
-  national_prefix: 0 (None fo
+  national_prefix: '0'
   number: '554'
   region: Oceania
   subregion: Australia and New Zealand
@@ -9897,6 +9901,7 @@ SX:
     en: Dutch
     de: Niederländisch
     at: Niederländisch
+    nl: Nederlands
   postal_code: true
 SY:
   continent: Asia

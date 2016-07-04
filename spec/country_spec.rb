@@ -187,6 +187,24 @@ describe ISO3166::Country do
     end
   end
 
+  describe '#nationalities' do
+    it 'should provide the same translation for passed symbol or string' do
+      ISO3166::Country.nationalities(:de).should == ISO3166::Country.nationalities("de")
+    end
+
+    it 'should provide the same translation for passed up-cased or down-cased locale' do
+      ISO3166::Country.nationalities("DE").should == ISO3166::Country.nationalities("de")
+    end
+
+    it 'should fallback to default :en translation if passed is wrong' do
+      ISO3166::Country.nationalities("lang").should == ISO3166::Country.nationalities("en")
+    end
+
+    it 'should provide country for exceptions' do
+      ISO3166::Country.nationalities("nl").find { |item| item[1] == "NL" }[0].should == "Nederlands (Nederland)"
+    end
+  end
+
   describe 'countries' do
     it 'should be the same as all' do
       ISO3166::Country.countries.should == ISO3166::Country.all
