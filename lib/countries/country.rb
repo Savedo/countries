@@ -101,23 +101,32 @@ class ISO3166::Country
 
     def all_translated(locale = "en")
       translate = ->(country) { self.new(country[1]).translations[locale] }
-      list = self.all.map(&translate).compact.sort
+      self.all.map(&translate).compact.sort
     end
 
     def nationalities(locale = "en")
       translate = ->(country) do
-        loc_locale = self[country[1]].nationality_translations[locale].blank? ? "en" : locale
+        local_locale = locale.to_s.downcase
 
-        nationality_translation = self[country[1]].nationality_translations[loc_locale]
-        next if nationality_translation.blank?
+        country_translations = self[country[1]].translations
+        country_nationality_translations = self[country[1]].nationality_translations
 
-        if EXCEPTIONS.include?(country[1])
-          ["#{nationality_translation} (#{self[country[1]].translations[loc_locale]})", country[1]]
+        nationality_translation = country_nationality_translations[local_locale]
+
+        if nationality_translation.to_s.empty?
+          local_locale = "en"
+          nationality_translation = country_nationality_translations["en"]
+        end
+        return if nationality_translation.to_s.empty?
+
+        if EXCEPTIONS.include?(country[1]) && country_translations[local_locale]
+          ["#{nationality_translation} (#{country_translations[local_locale]})", country[1]]
         else
           [nationality_translation, country[1]]
         end
       end
-      list = self.all.map(&translate).compact.uniq.sort
+
+      self.all.map(&translate).compact.uniq.sort
     end
 
     def search(query)
